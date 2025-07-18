@@ -23,7 +23,7 @@ Created and summarized by: **Ahmed Akram Amer**
 | File Name | Description |
 |-----------|-------------|
 | `Git & GitHub.pptx` | PowerPoint presentation summarizing the full course |
-| `Git Commands Cheatsheet.pdf` | (Optional) One-page reference cheatsheet |
+| `Git Commands Cheatsheet.pdf` | Two-pages reference cheatsheet |
 | `README.md` | You are here! |
 
 ---
